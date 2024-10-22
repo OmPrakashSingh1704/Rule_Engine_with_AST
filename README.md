@@ -31,7 +31,18 @@ Rule Engine with AST is a customizable Python-based engine that parses and evalu
    cd Rule_Engine_with_AST
    ```
 
-3. Install the required dependencies and run application:
+3. Create virtual environment and activate it:
+
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activat
+   ```
+
+4. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+6. Run application:
 
    ```bash
    ./bash.sh
