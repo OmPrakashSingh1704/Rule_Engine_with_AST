@@ -35,7 +35,7 @@ Rule Engine with AST is a customizable Python-based engine that parses and evalu
 
    ```bash
    python3 -m venv venv
-   source venv/bin/activat
+   venv\Scripts\activate
    ```
 
 4. Install the required dependencies:
